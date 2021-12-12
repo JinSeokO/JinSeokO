@@ -1,3 +1,8 @@
+# Hi. This is Jin
+
+## contact
+Email: freejin4802@gmail.com
+
 ![JinSeokO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinSeokO&count_private=true&&show_icons=true&theme=tokyonight)
 
 <!--
